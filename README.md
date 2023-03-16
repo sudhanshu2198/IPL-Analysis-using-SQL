@@ -14,10 +14,11 @@ The objective of this notebook is to do a rigorous analysis of Indian Premier Le
 
 ## 🔗 Links
 
- - [Database Link](https://www.kaggle.com/datasets/harsha547/ipldatabase)
-  - [Database Image Link](https://i.imgur.com/327NVKH.png)
- - [Kaggle Notebook link](https://www.kaggle.com/code/sudhanshu2198/ipl-sports-analysis-using-sql)
   - [Medium Article link](https://medium.com/@sudhanshurastogi/indian-premier-league-analysis-using-sql-3b8d1f61565a)
+  - [Kaggle Notebook link](https://www.kaggle.com/code/sudhanshu2198/ipl-sports-analysis-using-sql)
+  - [Database Link](https://www.kaggle.com/datasets/harsha547/ipldatabase)
+  - [Database Image Link](https://i.imgur.com/327NVKH.png)
+
 
 
 ## 🛠 Skills
