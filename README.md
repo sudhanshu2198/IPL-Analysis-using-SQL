@@ -9,9 +9,6 @@ The objective of this notebook is to do a rigorous analysis of Indian Premier Le
 
 ![App Screenshot](https://i.imgur.com/327NVKH.png?text=Database+Schema)
 
-
-
-
 ## 🔗 Links
 
   - [Medium Article link](https://medium.com/@sudhanshurastogi/indian-premier-league-analysis-using-sql-3b8d1f61565a)
@@ -23,4 +20,12 @@ The objective of this notebook is to do a rigorous analysis of Indian Premier Le
 
 ## 🛠 Skills
 Python, Pandas, Numpy, SQL
+
+## Results
+
+![Best Batsmen Statistics](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/best_batsmen.PNG)
+![Highest Wicket Taker](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/wicket_takers.PNG)
+![Best Bowlers](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/best_bowler.PNG)
+![Best Captain Statistics](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/captain%20stat.PNG)
+![Team Statistics](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/Team%20stat.PNG)
 
