@@ -23,9 +23,14 @@ Python, Pandas, Numpy, SQL
 
 ## Results
 
-![Best Batsmen Statistics](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/best_batsmen.PNG)
-![Highest Wicket Taker](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/wicket_takers.PNG)
-![Best Bowlers](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/best_bowler.PNG)
-![Best Captain Statistics](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/captain%20stat.PNG)
-![Team Statistics](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/Team%20stat.PNG)
+### Best Batsmen Statistics
+![](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/best_batsmen.PNG)
+### Highest Wicket Taker
+![](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/wicket_takers.PNG)
+### Best Bowlers
+![](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/best_bowler.PNG)
+### Best Captain Statistics
+![](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/captain%20stat.PNG)
+### Team Statistics
+![](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL/blob/main/images/Team%20stat.PNG)
 
